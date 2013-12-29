@@ -3,6 +3,7 @@
 ##Spis treści
 
 * [Dane](#dane)
+* [Import](#import)
 * [Aggregacje](#aggregacje)
     * [Aggregacja 1](#aggregacja-1)
     * [Aggregacja 2](#aggregacja-2)
