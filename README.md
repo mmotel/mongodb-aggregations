@@ -1,5 +1,13 @@
 #MongoDB - Aggregations Framework
 
+##Spis treści
+
+* [Dane](#dane)
+* [Aggregacje](#aggregacje)
+    * [Aggregacja 1](#aggregacja-1)
+    * [Aggregacja 2](#aggregacja-2)
+* [Wyniki z MongoDB Management Service](#wyniki-z-mongodb-management-service)
+
 ##Dane
 
 [GetGlue and Timestamped Event Data](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz) (ok. `11 GB`, `19 831 300` json-ów, próbka 100 jsonów [getglue101](https://github.com/nosql/aggregations-2/blob/master/data/wbzyl/getglue101.json)). Są to dane z [IMDB](http://www.imdb.com/) z lat 2007–2012, tylko filmy i przedstawienia TV. 
